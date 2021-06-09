@@ -34,6 +34,10 @@ nav a:active {
     background-color: blue;
 }
 
+.title{
+    background-color:black;
+}
+
 h1 {
     font-weight:bold;
     font-size:72px;
